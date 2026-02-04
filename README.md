@@ -1,4 +1,4 @@
-# cybersecurity-internship-projects
+
 # Cybersecurity Internship Projects
 
 This repository contains cybersecurity internship projects completed at **SyntecxHub**.
